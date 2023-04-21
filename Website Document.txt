@@ -1,0 +1,44 @@
+﻿* What is your website type?
+            E Commerce - Products
+* What is your website’s purpose and goals?
+To sell products that’d be useful to people
+* What are feature milestones?
+User-friendly interface
+Search bar
+Product descriptions and images
+Product reviews
+Shopping cart and checkout
+Payment options
+Shipping and delivery options
+Customer service
+Newsletter or promotional emails
+Mobile optimization
+* What accessibility considerations will you make?
+Alt Text for Images
+Keyboard Accessibility
+Color Contrast
+Descriptive Headings
+Captions and Transcripts
+Simplified Layout
+Text Size
+Accessible Forms
+Compatibility with Assistive Technology
+Consistent Navigation
+* What is your website color palette?
+Black,Blue,White
+* What is your website layout plan and why?
+two-column layout, with the main content in the center and secondary content or navigation on the side. The homepage could feature a prominent search bar, featured products or promotions, and links to different product categories like cardio equipment, strength equipment, and accessories. Product pages should have high-quality images, clear descriptions, and user reviews and ratings. The site could also include a product comparison feature and an easy-to-use cart and checkout process.
+* Who is your target audience?
+People who are interested in health/fitness
+* What font do you want to use?
+“Nothing you could do”
+
+
+* What is your site map?
+Home
+Shop by category
+Equipment 
+Clothing
+Other accessories
+Cart 
+Featured Products
