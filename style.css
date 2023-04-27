@@ -1,3 +1,4 @@
+/*Page color and font*/
 body {
 	background-color: lightgray;
 }
@@ -8,6 +9,7 @@ ul {
   margin: 30px 40px;
   padding: 5px 10px 15px 5px;
 }
+/*Sizing for headers and images*/
 h1 {
         font-size: 32px;
         font-weight: bold;
